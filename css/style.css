@@ -2,3 +2,6 @@
   width: 800px;
   height: 600px;
 }
+a:hover {
+  color: red;
+}
